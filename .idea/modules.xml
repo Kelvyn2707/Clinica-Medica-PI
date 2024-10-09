@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projeto Integrador Everton.iml" filepath="$PROJECT_DIR$/.idea/Projeto Integrador Everton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clinica-medica/administrativo/administrativo.iml" filepath="$PROJECT_DIR$/clinica-medica/administrativo/administrativo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clinica-medica/agendamento/agendamento.iml" filepath="$PROJECT_DIR$/clinica-medica/agendamento/agendamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clinica-medica/atendimento/atendimento.iml" filepath="$PROJECT_DIR$/clinica-medica/atendimento/atendimento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clinica-medica/clinica-medica.iml" filepath="$PROJECT_DIR$/clinica-medica/clinica-medica.iml" />
+    </modules>
+  </component>
+</project>
